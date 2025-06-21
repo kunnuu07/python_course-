@@ -1,0 +1,13 @@
+ Student Name Is: KUNAL 
+
+html: 99
+java: 98
+c: 78
+Total: 275/300
+
+Percentage: 91.67%
+
+Result: Congrats Your Passed 
+ You Got 91.67%
+
+Student info is Saved !!
